@@ -1,0 +1,23 @@
+{
+  "name": {
+    "__v_isShallow": false,
+    "dep": {},
+    "__v_isRef": true,
+    "_rawValue": "test",
+    "_value": "test"
+  },
+  "email": {
+    "__v_isShallow": false,
+    "dep": {},
+    "__v_isRef": true,
+    "_rawValue": "test@test.nl",
+    "_value": "test@test.nl"
+  },
+  "password": {
+    "__v_isShallow": false,
+    "dep": {},
+    "__v_isRef": true,
+    "_rawValue": "asdfghjkl",
+    "_value": "asdfghjkl"
+  }
+}
